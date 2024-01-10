@@ -1,15 +1,15 @@
 # W3C Vector Verification Test
 This repository contains a test suite designed to verify the correctness of vectors format available at `https://github.com/TimoGlastra/anoncreds-w3c-test-vectors`.
 
-##Setup
-###Installation
+## Setup
+### Installation
 To set up the required dependencies, run the following command:
 
 ```js
 npm install
 ```
 
-###Execution
+### Execution
 Execute the test vectors using the following command:
 
 ```js
