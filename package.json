@@ -1,0 +1,57 @@
+{
+  "name": "vc-data-model-2.0-test-suite",
+  "version": "2.0.0",
+  "description": "Test Suite for checking Verifiable Credentials Data Model 2.0 compliance.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/ --reporter @digitalbazaar/mocha-w3c-interop-reporter --reporter-options abstract=\"$PWD/abstract.hbs\",reportDir=\"$PWD/reports\",respec=\"$PWD/respecConfig.json\",suiteLog='./suite.log',templateData=\"$PWD/reports/index.json\",title=\"VC v2.0 Interoperability Report\" --timeout 15000 --preserve-symlinks",
+    "test-vectors": "mocha tests/vector-test/ --reporter @digitalbazaar/mocha-w3c-interop-reporter --reporter-options abstract=\"$PWD/abstract.hbs\",reportDir=\"$PWD/reports\",respec=\"$PWD/respecConfig.json\",suiteLog='./suite.log',templateData=\"$PWD/reports/index.json\",title=\"VC v2.0 Interoperability Report\" --timeout 15000 --preserve-symlinks",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3c/vc-data-model-2.0-test-suite.git"
+  },
+  "keywords": [
+    "test",
+    "w3c",
+    "verifiable credentials",
+    "vc"
+  ],
+  "author": {
+    "name": "W3C Verifiable Credentials Working Group",
+    "email": "public-vc-wg@w3.org",
+    "url": "https://www.w3.org/groups/wg/vc/"
+  },
+  "license": "(BSD-3-Clause OR LicenseRef-scancode-w3c-test-suite)",
+  "engines": {
+    "node": ">=18"
+  },
+  "bugs": {
+    "url": "https://github.com/w3c/vc-data-model-2.0-test-suite/issues"
+  },
+  "homepage": "https://github.com/w3c/vc-data-model-2.0-test-suite#readme",
+  "dependencies": {
+    "@digitalbazaar/data-integrity": "^1.4.0",
+    "@digitalbazaar/data-integrity-context": "^1.0.0",
+    "@digitalbazaar/ed25519-multikey": "^1.0.1",
+    "@digitalbazaar/eddsa-2022-cryptosuite": "^1.0.0",
+    "@digitalbazaar/mocha-w3c-interop-reporter": "^1.5.0",
+    "@digitalbazaar/vc": "github:digitalbazaar/vc#update-vc-2.0",
+    "bnid": "^3.0.0",
+    "chai": "^4.3.6",
+    "klona": "^2.0.5",
+    "mocha": "^10.0.0",
+    "vc-api-test-suite-implementations": "github:w3c/vc-test-suite-implementations"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-digitalbazaar": "^4.0.1",
+    "eslint-plugin-jsdoc": "^39.3.3",
+    "eslint-plugin-unicorn": "^43.0.0"
+  }
+}
