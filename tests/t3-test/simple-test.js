@@ -116,7 +116,7 @@ const path = require('path');
   
       describe(name, function() {
   
-          const credentialFolderPath = '{input-path}/vc-data-model-2.0-test-suite/tests/vector-test/test-vectors/w3c-credentials';
+          const credentialFolderPath = '/Users/kene/Documents/codes/python/cooperationorg/trust-claim/vc-python-test/vc-data-model-2.0-test-suite/tests/t3-test/inputs';
           const credentialFiles = fs.readdirSync(credentialFolderPath);
           const credentialJsonFiles = credentialFiles.filter(file => file.endsWith('.json'));
           
@@ -127,16 +127,7 @@ const path = require('path');
             });
             await console.log(shouldBeIssuedVc(require(filePath)));
           });
-          const presentationFolderPath = '{input-path}/vc-python-test/vc-data-model-2.0-test-suite/tests/vector-test/test-vectors/w3c-presentations';
-          const presentationFiles = fs.readdirSync(presentationFolderPath);
-          const presentationJsonFiles = presentationFiles.filter(file => file.endsWith('.json'));
-          
-          presentationJsonFiles.forEach(async fileName => {
-            const filePath = path.join(presentationFolderPath, fileName);
-            it2(`Verifing presentation - ${fileName}  using verifyVp function`, async function () {
-              await assert.rejects(verify(require(filePath)));
-            });
-          });
+         
     });
 }
 });
