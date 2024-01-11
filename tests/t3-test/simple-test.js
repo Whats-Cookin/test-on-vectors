@@ -116,7 +116,7 @@ const path = require('path');
   
       describe(name, function() {
   
-          const credentialFolderPath = '/Users/kene/Documents/codes/python/cooperationorg/trust-claim/vc-python-test/vc-data-model-2.0-test-suite/tests/t3-test/inputs';
+          const credentialFolderPath = '{input-path}/vc-python-test/vc-data-model-2.0-test-suite/tests/t3-test/inputs';
           const credentialFiles = fs.readdirSync(credentialFolderPath);
           const credentialJsonFiles = credentialFiles.filter(file => file.endsWith('.json'));
           
