@@ -95,13 +95,13 @@
     <section class="informative" id="conformance-testing-results">
       <h2> Conformance Testing Results </h2>
       <p>
-      Tests passed 41/70 58%
+      Tests passed 40/70 57%
       </p>
       <p>
-      Tests failed 29/70 42%
+      Tests failed 30/70 43%
       </p>
       <p>
-      Failures 29
+      Failures 30
       </p>
       <p>
       Tests skipped 26
@@ -110,7 +110,7 @@
       Total tests 96
       </p>
       <p>
-        These tests were run on <time>28 January 2024 at 5:12 am UTC</time>
+        These tests were run on <time>11 February 2024 at 5:11 am UTC</time>
       </p>
       <section class="informative" id="Key">
         <h3>Key</h3>
@@ -1257,7 +1257,7 @@
                         <pre>{
                       "name": "HTTPError",
                       "message": "Request failed with status code 400 Bad Request",
-                      "stack": "HTTPError: Request failed with status code 400 Bad Request\n    at fn (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/ky/distribution/core/Ky.js:28:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async _handleResponse (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/@digitalbazaar/http-client/lib/httpClient.js:101:16)\n    at async makeHttpsRequest (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/vc-api-test-suite-implementations/lib/requests.js:46:14)\n    at async post (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:56:31)\n    at async Context.<anonymous> (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:288:9)\n    at async Context.<anonymous> (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:48:9)"
+                      "stack": "HTTPError: Request failed with status code 400 Bad Request\n    at fn (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/ky/distribution/core/Ky.js:28:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async _handleResponse (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/@digitalbazaar/http-client/lib/httpClient.js:101:16)\n    at async makeHttpsRequest (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/vc-api-test-suite-implementations/lib/requests.js:46:14)\n    at async post (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:56:31)\n    at async verifyVp (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:107:22)\n    at async Context.<anonymous> (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:276:9)\n    at async Context.<anonymous> (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:48:9)"
                     }</pre>
                       </span>
                     </div>
@@ -2211,8 +2211,8 @@
                 <!--This is the name of the test-->
                 <td class="subtest">In Verifiable Presentations, the verifiableCredential property MAY be present. The value MUST be an array of one or more verifiable credential graphs in a cryptographically verifiable format.</td>
                 <!--These contain if the test passed, failed, or was skipped-->
-                  <td class="passed not-optional highlight-on-hover text-center">
-                    <div class= "highlight-on-hover">✓</div>
+                  <td class="failed not-optional highlight-on-hover text-center">
+                    <div class= "highlight-on-hover">❌</div>
                     <div class="relative-pos">
                       <style>
                        .hide {
@@ -2241,6 +2241,13 @@
                          margin-left: 1rem;
                        }
                       </style>
+                      <span class="err hide no-space-around">
+                        <pre>{
+                      "name": "HTTPError",
+                      "message": "Request failed with status code 400 Bad Request",
+                      "stack": "HTTPError: Request failed with status code 400 Bad Request\n    at fn (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/ky/distribution/core/Ky.js:28:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async _handleResponse (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/@digitalbazaar/http-client/lib/httpClient.js:101:16)\n    at async makeHttpsRequest (file:///home/runner/work/test-on-vectors/test-on-vectors/node_modules/vc-api-test-suite-implementations/lib/requests.js:46:14)\n    at async post (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:56:31)\n    at async verifyVp (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:107:22)\n    at async Context.<anonymous> (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:470:9)\n    at async Context.<anonymous> (file:///home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js:48:9)"
+                    }</pre>
+                      </span>
                     </div>
                   </td>
                   <td class="failed not-optional highlight-on-hover text-center">
