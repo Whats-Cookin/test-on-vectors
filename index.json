@@ -21,7 +21,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -37,7 +37,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -54,9 +54,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:b1bacbe7-2155-4c42-a047-66bd00b91e98",
+              "_testId": "urn:uuid:d4ccbb5b-9b3b-498a-aa6f-2b6990dffa40",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -67,12 +67,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 347,
+                "_idleStart": 353,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 428,
+              "duration": 315,
               "state": "passed",
               "speed": "slow"
             },
@@ -89,9 +89,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:7759a769-6bd0-4aa6-9512-5a99d9b44f0f",
+              "_testId": "urn:uuid:de46347b-9246-4620-b290-7d22068915fd",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -102,12 +102,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 775,
+                "_idleStart": 668,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 149,
+              "duration": 379,
               "state": "passed",
               "speed": "slow"
             },
@@ -124,9 +124,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:b1b6ed4b-3a31-47cf-97bd-ab51b7f91f2c",
+              "_testId": "urn:uuid:d44fd2a1-8278-4233-b18c-bfcacbd7473d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -137,14 +137,14 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 923,
+                "_idleStart": 1047,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 70,
+              "duration": 102,
               "state": "passed",
-              "speed": "medium"
+              "speed": "slow"
             },
             {
               "type": "test",
@@ -159,9 +159,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:9b897ea1-833c-460a-be92-93fa796ffd45",
+              "_testId": "urn:uuid:2df658fe-695d-4a81-b2c0-710ecf3c7695",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -172,12 +172,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 994,
+                "_idleStart": 1149,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 365,
+              "duration": 299,
               "state": "passed",
               "speed": "slow"
             },
@@ -194,9 +194,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:c2680efb-6d3d-45f1-ab08-854359917dbb",
+              "_testId": "urn:uuid:7cf02109-a513-4e2f-94f2-43531326568c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -207,12 +207,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1359,
+                "_idleStart": 1448,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 206,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -229,9 +229,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:4ffacaae-c6af-4188-a8b8-0c87166ce845",
+              "_testId": "urn:uuid:393c7ea4-d01e-4f93-bb02-c2074dc46720",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -242,12 +242,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1565,
+                "_idleStart": 1547,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 421,
+              "duration": 502,
               "state": "passed",
               "speed": "slow"
             },
@@ -264,9 +264,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:f107e725-9b1f-410a-a70b-c000b200117c",
+              "_testId": "urn:uuid:f1de60fd-b465-4aed-9862-747663dfe546",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -277,12 +277,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1987,
+                "_idleStart": 2049,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 160,
+              "duration": 199,
               "state": "passed",
               "speed": "slow"
             },
@@ -299,9 +299,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:1fa13cf5-65a9-413a-8d9b-8f2ff9970120",
+              "_testId": "urn:uuid:951a8c98-be44-4021-a981-06c44c01aa74",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -312,12 +312,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2147,
+                "_idleStart": 2249,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 428,
+              "duration": 498,
               "state": "passed",
               "speed": "slow"
             },
@@ -334,9 +334,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:f0de50c8-d7a0-468b-8682-a15b6466ca13",
+              "_testId": "urn:uuid:504da72b-f7f4-4c38-8baf-cde5bd66a76b",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -347,12 +347,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2574,
+                "_idleStart": 2751,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 209,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -369,9 +369,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:3472bbbb-28eb-4ce8-8426-80a2786f7ec8",
+              "_testId": "urn:uuid:11bdc377-b8df-4bae-a210-513004e1b5b0",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -382,12 +382,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2783,
+                "_idleStart": 2850,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 95,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -404,9 +404,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:6dc69657-5726-451b-935f-786e63a781df",
+              "_testId": "urn:uuid:0c673fba-bb37-4e69-ad0b-eac401c72bb9",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -417,12 +417,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2879,
+                "_idleStart": 2950,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 106,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -439,9 +439,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:7cb30d15-dca0-4d46-b762-7ffe9077c731",
+              "_testId": "urn:uuid:c972fcd5-c950-48e4-93c4-d04f326349ef",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -452,12 +452,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2985,
+                "_idleStart": 3050,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 95,
+              "duration": 97,
               "state": "passed",
               "speed": "slow"
             },
@@ -474,9 +474,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:902a18a7-6876-4f87-b45e-5d35b25ad235",
+              "_testId": "urn:uuid:775cc58c-f786-4218-a91f-a0e27f94dbdc",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -487,12 +487,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3080,
+                "_idleStart": 3148,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 602,
+              "duration": 732,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -513,9 +513,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:47f99af8-dd37-4c9d-ac60-690cd1ced141",
+              "_testId": "urn:uuid:72e85518-3560-4f08-acb0-afc1a79f0a52",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -526,12 +526,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3685,
+                "_idleStart": 3883,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 303,
+              "duration": 286,
               "state": "passed",
               "speed": "slow"
             },
@@ -548,9 +548,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:c23097e0-df56-49d0-b4bb-9724e903927c",
+              "_testId": "urn:uuid:3071df6a-b37d-487a-8841-adf77f2e513e",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -561,12 +561,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3989,
+                "_idleStart": 4170,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 529,
+              "duration": 818,
               "state": "failed",
               "err": {
                 "response": {},
@@ -574,35 +574,30 @@
                 "options": {
                   "credentials": "same-origin",
                   "headers": {},
-                  "body": "{\"verifiablePresentation\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\",{\"CredentialManagerPresentation\":\"https://example.org/examples#CredentialManagerPresentation\"}],\"type\":[\"VerifiablePresentation\",\"CredentialManagerPresentation\"],\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-11T05:11:16Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"authentication\",\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\",\"proofValue\":\"z4Bpc6PhwJMuPkmup2da2jCP4fjhgNJNGFTLniX65v1w1qfdLqAQ8Msn8i9AS8cEU5CiRJGXj7n1XyyCCFB9hW87b\"}},\"options\":{\"checks\":[\"proof\"],\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\"}}",
+                  "body": "{\"credential\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\",{\"CredentialStatusList2017\":\"https://example.org/examples#CredentialStatusList2017\"}],\"type\":[\"VerifiableCredential\"],\"issuer\":\"did:example:issuer\",\"credentialSubject\":{\"id\":\"did:example:subject\"},\"credentialStatus\":{\"id\":\"did:example:status\",\"type\":\"CredentialStatusList2017\"}},\"options\":{\"type\":\"Ed25519Signature2020\"}}",
                   "method": "POST",
                   "json": {
-                    "verifiablePresentation": {
+                    "credential": {
                       "@context": [
                         "https://www.w3.org/ns/credentials/v2",
                         {
-                          "CredentialManagerPresentation": "https://example.org/examples#CredentialManagerPresentation"
+                          "CredentialStatusList2017": "https://example.org/examples#CredentialStatusList2017"
                         }
                       ],
                       "type": [
-                        "VerifiablePresentation",
-                        "CredentialManagerPresentation"
+                        "VerifiableCredential"
                       ],
-                      "proof": {
-                        "type": "DataIntegrityProof",
-                        "created": "2024-02-11T05:11:16Z",
-                        "verificationMethod": "did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj",
-                        "cryptosuite": "eddsa-2022",
-                        "proofPurpose": "authentication",
-                        "challenge": "uFrO4Y_rCiUHGNPdufGFLOg",
-                        "proofValue": "z4Bpc6PhwJMuPkmup2da2jCP4fjhgNJNGFTLniX65v1w1qfdLqAQ8Msn8i9AS8cEU5CiRJGXj7n1XyyCCFB9hW87b"
+                      "issuer": "did:example:issuer",
+                      "credentialSubject": {
+                        "id": "did:example:subject"
+                      },
+                      "credentialStatus": {
+                        "id": "did:example:status",
+                        "type": "CredentialStatusList2017"
                       }
                     },
                     "options": {
-                      "checks": [
-                        "proof"
-                      ],
-                      "challenge": "uFrO4Y_rCiUHGNPdufGFLOg"
+                      "type": "Ed25519Signature2020"
                     }
                   },
                   "agent": {
@@ -671,15 +666,12 @@
                   "duplex": "half"
                 },
                 "name": "HTTPError",
-                "requestUrl": "https://vc.apicatalog.com/presentations/verify",
+                "requestUrl": "https://vc.apicatalog.com/credentials/issue",
                 "status": 400,
                 "data": {
-                  "checks": [
-                    "PROOF",
-                    "INVALID_SIGNATURE"
-                  ],
-                  "warnings": [],
-                  "errors": []
+                  "id": "MALFORMED",
+                  "code": "INVALID_CREDENTIAL_STATUS",
+                  "message": null
                 }
               }
             },
@@ -695,7 +687,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -712,9 +704,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:b26fc497-c7c2-4127-ba3a-1fb88a2e9323",
+              "_testId": "urn:uuid:04cc57a5-bdd8-4d78-bfd5-859d32f97324",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -725,12 +717,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4521,
+                "_idleStart": 4991,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 70,
+              "duration": 42,
               "state": "passed",
               "speed": "medium"
             },
@@ -747,9 +739,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:bd20a25f-6c80-429a-ab62-a387ec880c22",
+              "_testId": "urn:uuid:c01db659-5e20-471d-862b-9076125c2203",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -760,12 +752,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4592,
+                "_idleStart": 5033,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 86,
+              "duration": 77,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -786,9 +778,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:39f3e9e6-8f6b-4c48-af71-2045d8f9de57",
+              "_testId": "urn:uuid:eff634e7-b293-48d9-b067-e4c266f01b9d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -799,12 +791,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4678,
+                "_idleStart": 5111,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 105,
+              "duration": 136,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -825,9 +817,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:2e68809c-c416-4bd7-a91b-acd59a80059b",
+              "_testId": "urn:uuid:200aff74-efc5-4c36-9fd2-fd627df8a9db",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -838,12 +830,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4784,
+                "_idleStart": 5248,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 365,
+              "duration": 403,
               "state": "passed",
               "speed": "slow"
             },
@@ -860,9 +852,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:0d6b4135-6220-49b0-bb26-383e9936bdca",
+              "_testId": "urn:uuid:4af85e3e-1771-4d2f-b51b-3efc2d1a675b",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -873,12 +865,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5149,
+                "_idleStart": 5651,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 632,
+              "duration": 1040,
               "state": "passed",
               "speed": "slow"
             },
@@ -895,9 +887,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:e08660ef-e850-4212-8a8a-0833a34680f6",
+              "_testId": "urn:uuid:50d6ebe3-f539-4ef0-8274-1eddf3894ce6",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -908,12 +900,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5781,
+                "_idleStart": 6691,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 696,
+              "duration": 861,
               "state": "passed",
               "speed": "slow"
             },
@@ -930,9 +922,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:14b02d07-797f-4172-b717-51ec1a70d5e9",
+              "_testId": "urn:uuid:cbff2140-c68c-426a-a9e9-1d7a653cb126",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -943,12 +935,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6477,
+                "_idleStart": 7555,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 305,
+              "duration": 234,
               "state": "passed",
               "speed": "slow"
             },
@@ -965,9 +957,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:a5579adf-385f-466c-835b-3b8394528db7",
+              "_testId": "urn:uuid:6753be09-2260-4625-a26f-6ca982d194d3",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -978,12 +970,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6782,
+                "_idleStart": 7789,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 97,
+              "duration": 59,
               "state": "failed",
               "err": {
                 "response": {},
@@ -1099,9 +1091,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:ab99927f-03bc-4f5e-8672-429c226f6db4",
+              "_testId": "urn:uuid:4e19dbcd-bd32-4f26-a6dd-262ebf2d9c91",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1112,12 +1104,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6880,
+                "_idleStart": 7849,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 303,
+              "duration": 154,
               "state": "passed",
               "speed": "slow"
             },
@@ -1134,9 +1126,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:92b139f6-2864-4e69-98da-b9c521eb264d",
+              "_testId": "urn:uuid:11604365-298e-4ef5-ab69-79343f3c15fe",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1147,12 +1139,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7183,
+                "_idleStart": 8003,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 197,
+              "duration": 247,
               "state": "passed",
               "speed": "slow"
             },
@@ -1168,7 +1160,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1184,7 +1176,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1200,7 +1192,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1217,9 +1209,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:a829203a-7701-422b-aca4-aa330fb23cee",
+              "_testId": "urn:uuid:32de4b16-d37f-401e-8cff-77a1bfdc5dec",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1230,12 +1222,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7380,
+                "_idleStart": 8252,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 74,
+              "duration": 42,
               "state": "passed",
               "speed": "medium"
             },
@@ -1252,9 +1244,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:cf6c0513-9936-463f-a0d3-481b0fd4dc7d",
+              "_testId": "urn:uuid:0a9e5964-be5a-4881-a43e-759f5538e3a1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1265,12 +1257,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7455,
+                "_idleStart": 8294,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 75,
+              "duration": 39,
               "state": "passed",
               "speed": "medium"
             },
@@ -1287,9 +1279,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:8d2f5719-9c14-45db-bb06-25c1aaa08a2f",
+              "_testId": "urn:uuid:9800462d-dd3c-47dd-90ba-81076c0c41b1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1300,12 +1292,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7530,
+                "_idleStart": 8334,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 85,
+              "duration": 115,
               "state": "failed",
               "err": {
                 "response": {},
@@ -1313,7 +1305,7 @@
                 "options": {
                   "credentials": "same-origin",
                   "headers": {},
-                  "body": "{\"verifiablePresentation\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiablePresentation\"],\"verifiableCredential\":[{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiableCredential\"],\"issuer\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"credentialSubject\":{\"id\":\"did:example:subject\"},\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-11T05:11:19Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"assertionMethod\",\"proofValue\":\"z4yy4pWrX5dJ81arLwGjnujBVsYbyaeDeRtkNsnupQbyoGwcc2d2vLXQrn4kV7ZDAWN48CXsZgf5FLxh94UGrcRxD\"}}],\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-11T05:11:19Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"authentication\",\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\",\"proofValue\":\"z4PVKd4z43kBpzMvRiGZQZ8pGUtNYZJgYqSDfRQmN3A91qStZAcqTLoisGGoT5fSDujjx913FNEfcAK2ni25j4Bri\"}},\"options\":{\"checks\":[\"proof\"],\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\"}}",
+                  "body": "{\"verifiablePresentation\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiablePresentation\"],\"verifiableCredential\":[{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiableCredential\"],\"issuer\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"credentialSubject\":{\"id\":\"did:example:subject\"},\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-18T05:11:39Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"assertionMethod\",\"proofValue\":\"z5Urv87k5KRY3Y8DooMGdcub2kdNBrQcTptD8AHA5CEvdR2AZXWqYBirmCGFJY8APJ7rtMEZ4shJ2jg1CaGRKt148\"}}],\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-18T05:11:39Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"authentication\",\"challenge\":\"uXdySz_mEbfSCst_VM7N9IQ\",\"proofValue\":\"z4JBhyS8rLkXJeqHBTpr4wFinci6AdbAjKW5TjvNo7r7g54UkQNNE5uYPhPC2cAC6CofnQ53kQz3sZQJYsNbfHJUb\"}},\"options\":{\"checks\":[\"proof\"],\"challenge\":\"uXdySz_mEbfSCst_VM7N9IQ\"}}",
                   "method": "POST",
                   "json": {
                     "verifiablePresentation": {
@@ -1337,29 +1329,29 @@
                           },
                           "proof": {
                             "type": "DataIntegrityProof",
-                            "created": "2024-02-11T05:11:19Z",
+                            "created": "2024-02-18T05:11:39Z",
                             "verificationMethod": "did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj",
                             "cryptosuite": "eddsa-2022",
                             "proofPurpose": "assertionMethod",
-                            "proofValue": "z4yy4pWrX5dJ81arLwGjnujBVsYbyaeDeRtkNsnupQbyoGwcc2d2vLXQrn4kV7ZDAWN48CXsZgf5FLxh94UGrcRxD"
+                            "proofValue": "z5Urv87k5KRY3Y8DooMGdcub2kdNBrQcTptD8AHA5CEvdR2AZXWqYBirmCGFJY8APJ7rtMEZ4shJ2jg1CaGRKt148"
                           }
                         }
                       ],
                       "proof": {
                         "type": "DataIntegrityProof",
-                        "created": "2024-02-11T05:11:19Z",
+                        "created": "2024-02-18T05:11:39Z",
                         "verificationMethod": "did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj",
                         "cryptosuite": "eddsa-2022",
                         "proofPurpose": "authentication",
-                        "challenge": "uFrO4Y_rCiUHGNPdufGFLOg",
-                        "proofValue": "z4PVKd4z43kBpzMvRiGZQZ8pGUtNYZJgYqSDfRQmN3A91qStZAcqTLoisGGoT5fSDujjx913FNEfcAK2ni25j4Bri"
+                        "challenge": "uXdySz_mEbfSCst_VM7N9IQ",
+                        "proofValue": "z4JBhyS8rLkXJeqHBTpr4wFinci6AdbAjKW5TjvNo7r7g54UkQNNE5uYPhPC2cAC6CofnQ53kQz3sZQJYsNbfHJUb"
                       }
                     },
                     "options": {
                       "checks": [
                         "proof"
                       ],
-                      "challenge": "uFrO4Y_rCiUHGNPdufGFLOg"
+                      "challenge": "uXdySz_mEbfSCst_VM7N9IQ"
                     }
                   },
                   "agent": {
@@ -1432,11 +1424,13 @@
                 "status": 400,
                 "data": {
                   "checks": [
-                    "PROOF",
-                    "INVALID_SIGNATURE"
+                    "PROOF"
                   ],
                   "warnings": [],
-                  "errors": []
+                  "errors": [
+                    "MALFORMED",
+                    "INVALID_CHALLENGE"
+                  ]
                 }
               }
             },
@@ -1453,9 +1447,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:8393bd15-7cf9-44c2-93de-a6e0eede7f2e",
+              "_testId": "urn:uuid:2ef51757-af92-47bc-951e-836e1d1ca494",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1466,12 +1460,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7615,
+                "_idleStart": 8449,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 151,
+              "duration": 105,
               "state": "passed",
               "speed": "slow"
             },
@@ -1488,9 +1482,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:fe7acd6c-4616-445a-bcd9-ee90e5260f98",
+              "_testId": "urn:uuid:0453c23f-ec37-4d0c-b865-e549a05d4e3f",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1501,12 +1495,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7766,
+                "_idleStart": 8555,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 156,
+              "duration": 193,
               "state": "passed",
               "speed": "slow"
             },
@@ -1523,9 +1517,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:45955f22-dc50-4df3-8c53-ab3e90441432",
+              "_testId": "urn:uuid:2771676e-1c12-4684-b6a7-23430ceec016",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1536,12 +1530,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7922,
+                "_idleStart": 8747,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 158,
+              "duration": 300,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -1562,9 +1556,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:3b173ebb-c182-4835-a2bf-afcd5251da94",
+              "_testId": "urn:uuid:910c11d7-51e3-4615-b8b4-6c0b6936eadf",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1575,12 +1569,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8080,
+                "_idleStart": 9048,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 197,
+              "duration": 203,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -1600,7 +1594,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1616,7 +1610,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1633,9 +1627,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:58ba95cf-31f1-4b00-ad00-a94169ade84a",
+              "_testId": "urn:uuid:c8825d07-24ec-4cf1-bdd6-fc82dc16a6d7",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1646,12 +1640,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8278,
+                "_idleStart": 9252,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 79,
+              "duration": 294,
               "state": "passed",
               "speed": "slow"
             },
@@ -1668,9 +1662,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:ceb03f87-308b-4414-87b9-08d47a4003d5",
+              "_testId": "urn:uuid:7aee4803-3d1f-42c9-b012-f3f91da48cd8",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1681,12 +1675,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8357,
+                "_idleStart": 9547,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 121,
+              "duration": 210,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -1707,9 +1701,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:3970a8d7-10c3-4ad0-beee-19357b4307ba",
+              "_testId": "urn:uuid:e7d4273a-eadf-4697-9700-5b4b12a43548",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1720,12 +1714,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8479,
+                "_idleStart": 9758,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 108,
+              "duration": 144,
               "state": "passed",
               "speed": "slow"
             },
@@ -1741,7 +1735,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1757,7 +1751,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1773,7 +1767,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1789,7 +1783,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             },
@@ -1805,7 +1799,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
               "state": "pending"
             }
@@ -1823,9 +1817,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "JXgPS6nk47lsYdKuDnHdT",
+          "parent": "2Fo7-TkV7C85j-9Vw5j6e",
           "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-          "_testId": "urn:uuid:9b78c8ae-af59-46e7-8088-08b8c13c08af"
+          "_testId": "urn:uuid:4a15f424-9414-49dd-bb41-899125234cee"
         },
         {
           "title": "Digital Bazaar",
@@ -1844,7 +1838,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -1860,7 +1854,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -1877,9 +1871,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:d0d9ca0a-6f5b-48be-9f4e-6d5f48ffb6a6",
+              "_testId": "urn:uuid:9887f55c-ee4a-46eb-864f-dc0cc4b05917",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1890,12 +1884,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8587,
+                "_idleStart": 9903,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -1912,9 +1906,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:faee653e-c33a-4e1b-b453-0001bfbc2f4b",
+              "_testId": "urn:uuid:cf04ecd6-98fe-46b5-9d14-d0afedaf6655",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1925,7 +1919,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8587,
+                "_idleStart": 9903,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1947,9 +1941,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:22e8dfb2-6316-4936-8af4-a7a7917ef33e",
+              "_testId": "urn:uuid:27f252b8-cbf6-4888-90c3-93dc61469493",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1960,7 +1954,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8588,
+                "_idleStart": 9904,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1982,9 +1976,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:2a780b73-dce0-446f-b174-e9fa33c1ed1b",
+              "_testId": "urn:uuid:b0bca679-1989-4b0e-a609-0cc540288161",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -1995,7 +1989,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8588,
+                "_idleStart": 9905,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2017,9 +2011,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:623274f2-40ff-4061-9d84-214e05df0b02",
+              "_testId": "urn:uuid:fa6c488e-97a4-4b3b-a051-5c8cdc7e0cce",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2030,7 +2024,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8589,
+                "_idleStart": 9906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2052,9 +2046,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:cb772aef-d0fa-4bf7-af10-939c40fee5b3",
+              "_testId": "urn:uuid:bb50c7f5-eea2-4c10-b7bd-bbea43da062d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2065,7 +2059,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8589,
+                "_idleStart": 9906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2087,9 +2081,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:2bd2635f-71ec-4b2b-8667-babfff6bde3b",
+              "_testId": "urn:uuid:ff51e50c-3f73-4adf-be2d-d5e34ea62f99",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2100,12 +2094,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8590,
+                "_idleStart": 9906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {}
             },
@@ -2122,9 +2116,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:9a4744f6-3dfd-46f9-8c06-7058b577c00e",
+              "_testId": "urn:uuid:5dfffec8-0dd9-4a12-929a-cb196625d9a9",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2135,7 +2129,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8590,
+                "_idleStart": 9907,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2157,9 +2151,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:d9360b34-2dc4-4829-ba4c-5cacf0ce0712",
+              "_testId": "urn:uuid:d648219c-8245-4781-9ae7-80dcb341cda4",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2170,12 +2164,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8591,
+                "_idleStart": 9907,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -2192,9 +2186,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:e4e65754-1e99-43df-9641-09bc076dd459",
+              "_testId": "urn:uuid:fd485341-a3be-4495-bbc7-fbfd3a8db310",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2205,7 +2199,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8591,
+                "_idleStart": 9908,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2227,9 +2221,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:37b862d9-7b30-4be9-b008-a725dcb0aa5b",
+              "_testId": "urn:uuid:29a565ad-c9ff-463b-8263-5ee3bc1d18e7",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2240,12 +2234,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8592,
+                "_idleStart": 9908,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -2262,9 +2256,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:9ae19b88-dd64-47b8-8735-0d109bc9df57",
+              "_testId": "urn:uuid:501c344b-0515-4aac-a50e-b73e45ecf5f7",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2275,12 +2269,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8592,
+                "_idleStart": 9908,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -2297,9 +2291,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:2be29b90-3090-4a5d-84f5-140c3d13a814",
+              "_testId": "urn:uuid:478ce59a-cca5-4466-9358-be9fc8eff122",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2310,7 +2304,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8592,
+                "_idleStart": 9909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2332,9 +2326,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:3a0c8975-a7d5-45d4-a25f-6b6709c6790e",
+              "_testId": "urn:uuid:42de2ed9-d41c-41f0-956d-c4640f04a6f2",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2345,7 +2339,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8593,
+                "_idleStart": 9909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2367,9 +2361,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:7148a7bc-ecef-4a8c-a347-22b6fd417304",
+              "_testId": "urn:uuid:6e67fc8a-f3fd-4c29-96d8-dc60ae8b2990",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2380,7 +2374,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8593,
+                "_idleStart": 9909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2401,7 +2395,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -2418,9 +2412,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:3617cc5b-bc34-492d-8f6e-2c45ab456d83",
+              "_testId": "urn:uuid:e869a14f-a0c8-4db7-a289-bc2eda31bff3",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2431,12 +2425,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8593,
+                "_idleStart": 9910,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -2453,9 +2447,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:f433e335-bef1-4916-b336-3fc72acce9e0",
+              "_testId": "urn:uuid:f9b41bb8-af1e-4b6d-85df-b76c395bcfe0",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2466,12 +2460,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8594,
+                "_idleStart": 9910,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {}
             },
@@ -2488,9 +2482,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:070bde76-1e8e-4cd5-add9-945d06c63f40",
+              "_testId": "urn:uuid:ccffd8e2-4139-49f7-9e87-efed8249fc3c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2501,7 +2495,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8602,
+                "_idleStart": 9911,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2523,9 +2517,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:e02baf52-1dce-4390-ac32-04e594d0b428",
+              "_testId": "urn:uuid:2a20d4ab-2b09-4dce-9bfe-7e63a4460d9c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2536,12 +2530,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8604,
+                "_idleStart": 9911,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {}
             },
@@ -2558,9 +2552,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:269263b5-51f6-41c6-875f-571c64654b98",
+              "_testId": "urn:uuid:bd1cd150-df01-4dfd-90a6-ad1ffeda0442",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2571,7 +2565,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8605,
+                "_idleStart": 9912,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2593,9 +2587,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:32c30307-def5-4380-b167-793bcb0a6462",
+              "_testId": "urn:uuid:2bd6e6af-b895-447f-94c2-17546f6c5202",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2606,7 +2600,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8606,
+                "_idleStart": 9912,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2628,9 +2622,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:65d9fcd2-2b9c-466a-adc6-67d0effb2b6c",
+              "_testId": "urn:uuid:27efa263-2495-42a2-bacd-7c8ef0096590",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2641,12 +2635,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8607,
+                "_idleStart": 9913,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {}
             },
@@ -2663,9 +2657,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:dde09ff1-4d33-4803-b5b4-f04fcacc8b87",
+              "_testId": "urn:uuid:48d1d33c-70e4-4431-815b-a7a31d6fb1ad",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2676,7 +2670,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8608,
+                "_idleStart": 9913,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2698,9 +2692,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:eff0868e-aa1d-437c-941e-297778c58b0f",
+              "_testId": "urn:uuid:cd5cc4f0-61f2-4ddd-9d58-c2c0a69c4984",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2711,7 +2705,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8610,
+                "_idleStart": 9914,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2733,9 +2727,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:ab513005-8d5e-4f49-8c8b-c9d0adeee31f",
+              "_testId": "urn:uuid:44361f64-5989-4b52-945d-2ed8d747ccc1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2746,7 +2740,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8611,
+                "_idleStart": 9914,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2767,7 +2761,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -2783,7 +2777,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -2799,7 +2793,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -2816,9 +2810,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:28bfe7bf-b902-492b-bfca-16f42a66e318",
+              "_testId": "urn:uuid:7f5b6659-b2ea-4240-8672-5e12d1ef3a66",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2829,12 +2823,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8612,
+                "_idleStart": 9915,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -2851,9 +2845,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:a51256a4-2bf9-4bf6-b6e1-5b47ac826337",
+              "_testId": "urn:uuid:37e26fa9-224d-4132-8fff-3c166086510c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2864,12 +2858,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8618,
+                "_idleStart": 9915,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 2,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -2886,9 +2880,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:492e5cc5-dd5c-4154-972f-e1c4762f8a9f",
+              "_testId": "urn:uuid:5daf8aeb-2976-4b0b-aa66-bf09f319d3e2",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2899,12 +2893,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8618,
+                "_idleStart": 9915,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 5,
+              "duration": 8,
               "state": "failed",
               "err": {}
             },
@@ -2921,9 +2915,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:fbe1f9da-a685-44eb-8d5f-288f70c1a0cf",
+              "_testId": "urn:uuid:5f804c89-e66f-41ef-a7ca-adac8a746c19",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2934,12 +2928,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8624,
+                "_idleStart": 9923,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -2956,9 +2950,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:b286e8b0-86ef-42f6-a5cc-baf70cd1fa21",
+              "_testId": "urn:uuid:d65d7705-be4c-49f7-8cf0-b71a19748a1d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -2969,7 +2963,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8624,
+                "_idleStart": 9924,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2991,9 +2985,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:03fb99d1-c1ea-4a49-a427-069a31869154",
+              "_testId": "urn:uuid:d069b232-8ad7-408a-aebc-b4eda1d093fc",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3004,12 +2998,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8624,
+                "_idleStart": 9924,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -3026,9 +3020,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:6c275d29-d336-45a8-8cf4-16fe0834668c",
+              "_testId": "urn:uuid:1d5941a7-159e-4988-81ca-d4cbd233da2a",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3039,12 +3033,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8625,
+                "_idleStart": 9924,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -3060,7 +3054,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -3076,7 +3070,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -3093,9 +3087,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:c6c3bfd7-bd18-4dcc-a974-0b75c803282b",
+              "_testId": "urn:uuid:6a5a25e3-5f46-4ecb-a838-b41a55809273",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3106,7 +3100,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8625,
+                "_idleStart": 9925,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3128,9 +3122,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:1b237f55-0c87-4544-9823-29327a4f16eb",
+              "_testId": "urn:uuid:a4955b83-1a81-4dff-9b4d-debc5a64c48e",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3141,7 +3135,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8626,
+                "_idleStart": 9925,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3163,9 +3157,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:56ef75ff-cb66-43d3-bea2-7213b22f7301",
+              "_testId": "urn:uuid:fb65d7ee-61e6-4c48-b54b-13cb045479a9",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3176,7 +3170,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8626,
+                "_idleStart": 9926,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3197,7 +3191,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -3213,7 +3207,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -3229,7 +3223,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -3245,7 +3239,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             },
@@ -3261,7 +3255,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
               "state": "pending"
             }
@@ -3279,9 +3273,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "JXgPS6nk47lsYdKuDnHdT",
+          "parent": "2Fo7-TkV7C85j-9Vw5j6e",
           "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-          "_testId": "urn:uuid:fe3b6757-92db-4471-b1b8-ad6be00fd96e"
+          "_testId": "urn:uuid:c0326bb1-caf5-4bdb-90c0-cb5fc19b2710"
         }
       ],
       "root": false,
@@ -3297,7 +3291,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "JD1k1AKqL9YKtPaBvIgh7",
+      "parent": "6Ouur0CWPb1IVVQMjvHfL",
       "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
       "summary": {},
       "matrix": true,
@@ -3305,7 +3299,7 @@
       "rowLabel": "Test Name",
       "columnLabel": "Issuer",
       "reportData": [],
-      "_testId": "urn:uuid:e80c180c-85bb-4f1b-88a0-a72f10ad7c8e",
+      "_testId": "urn:uuid:fb9ff51c-82e9-4810-bb74-7c9f05630fcf",
       "columns": [
         "apicatalog.com",
         "Digital Bazaar"
@@ -3327,9 +3321,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:b1bacbe7-2155-4c42-a047-66bd00b91e98",
+              "_testId": "urn:uuid:d4ccbb5b-9b3b-498a-aa6f-2b6990dffa40",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3340,12 +3334,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 347,
+                "_idleStart": 353,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 428,
+              "duration": 315,
               "state": "passed",
               "speed": "slow"
             },
@@ -3362,9 +3356,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:d0d9ca0a-6f5b-48be-9f4e-6d5f48ffb6a6",
+              "_testId": "urn:uuid:9887f55c-ee4a-46eb-864f-dc0cc4b05917",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3375,12 +3369,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8587,
+                "_idleStart": 9903,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             }
@@ -3402,9 +3396,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:7759a769-6bd0-4aa6-9512-5a99d9b44f0f",
+              "_testId": "urn:uuid:de46347b-9246-4620-b290-7d22068915fd",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3415,12 +3409,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 775,
+                "_idleStart": 668,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 149,
+              "duration": 379,
               "state": "passed",
               "speed": "slow"
             },
@@ -3437,9 +3431,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:faee653e-c33a-4e1b-b453-0001bfbc2f4b",
+              "_testId": "urn:uuid:cf04ecd6-98fe-46b5-9d14-d0afedaf6655",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3450,7 +3444,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8587,
+                "_idleStart": 9903,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3477,9 +3471,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:b1b6ed4b-3a31-47cf-97bd-ab51b7f91f2c",
+              "_testId": "urn:uuid:d44fd2a1-8278-4233-b18c-bfcacbd7473d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3490,14 +3484,14 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 923,
+                "_idleStart": 1047,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 70,
+              "duration": 102,
               "state": "passed",
-              "speed": "medium"
+              "speed": "slow"
             },
             {
               "type": "test",
@@ -3512,9 +3506,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:22e8dfb2-6316-4936-8af4-a7a7917ef33e",
+              "_testId": "urn:uuid:27f252b8-cbf6-4888-90c3-93dc61469493",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3525,7 +3519,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8588,
+                "_idleStart": 9904,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3552,9 +3546,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:9b897ea1-833c-460a-be92-93fa796ffd45",
+              "_testId": "urn:uuid:2df658fe-695d-4a81-b2c0-710ecf3c7695",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3565,12 +3559,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 994,
+                "_idleStart": 1149,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 365,
+              "duration": 299,
               "state": "passed",
               "speed": "slow"
             },
@@ -3587,9 +3581,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:2a780b73-dce0-446f-b174-e9fa33c1ed1b",
+              "_testId": "urn:uuid:b0bca679-1989-4b0e-a609-0cc540288161",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3600,7 +3594,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8588,
+                "_idleStart": 9905,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3627,9 +3621,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:c2680efb-6d3d-45f1-ab08-854359917dbb",
+              "_testId": "urn:uuid:7cf02109-a513-4e2f-94f2-43531326568c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3640,12 +3634,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1359,
+                "_idleStart": 1448,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 206,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -3662,9 +3656,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:623274f2-40ff-4061-9d84-214e05df0b02",
+              "_testId": "urn:uuid:fa6c488e-97a4-4b3b-a051-5c8cdc7e0cce",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3675,7 +3669,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8589,
+                "_idleStart": 9906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3702,9 +3696,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:4ffacaae-c6af-4188-a8b8-0c87166ce845",
+              "_testId": "urn:uuid:393c7ea4-d01e-4f93-bb02-c2074dc46720",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3715,12 +3709,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1565,
+                "_idleStart": 1547,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 421,
+              "duration": 502,
               "state": "passed",
               "speed": "slow"
             },
@@ -3737,9 +3731,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:cb772aef-d0fa-4bf7-af10-939c40fee5b3",
+              "_testId": "urn:uuid:bb50c7f5-eea2-4c10-b7bd-bbea43da062d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3750,7 +3744,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8589,
+                "_idleStart": 9906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3777,9 +3771,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:f107e725-9b1f-410a-a70b-c000b200117c",
+              "_testId": "urn:uuid:f1de60fd-b465-4aed-9862-747663dfe546",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3790,12 +3784,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1987,
+                "_idleStart": 2049,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 160,
+              "duration": 199,
               "state": "passed",
               "speed": "slow"
             },
@@ -3812,9 +3806,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:2bd2635f-71ec-4b2b-8667-babfff6bde3b",
+              "_testId": "urn:uuid:ff51e50c-3f73-4adf-be2d-d5e34ea62f99",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3825,12 +3819,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8590,
+                "_idleStart": 9906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {}
             }
@@ -3852,9 +3846,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:1fa13cf5-65a9-413a-8d9b-8f2ff9970120",
+              "_testId": "urn:uuid:951a8c98-be44-4021-a981-06c44c01aa74",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3865,12 +3859,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2147,
+                "_idleStart": 2249,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 428,
+              "duration": 498,
               "state": "passed",
               "speed": "slow"
             },
@@ -3887,9 +3881,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:9a4744f6-3dfd-46f9-8c06-7058b577c00e",
+              "_testId": "urn:uuid:5dfffec8-0dd9-4a12-929a-cb196625d9a9",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3900,7 +3894,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8590,
+                "_idleStart": 9907,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3927,9 +3921,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:f0de50c8-d7a0-468b-8682-a15b6466ca13",
+              "_testId": "urn:uuid:504da72b-f7f4-4c38-8baf-cde5bd66a76b",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3940,12 +3934,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2574,
+                "_idleStart": 2751,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 209,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -3962,9 +3956,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:d9360b34-2dc4-4829-ba4c-5cacf0ce0712",
+              "_testId": "urn:uuid:d648219c-8245-4781-9ae7-80dcb341cda4",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -3975,12 +3969,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8591,
+                "_idleStart": 9907,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             }
@@ -4002,9 +3996,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:3472bbbb-28eb-4ce8-8426-80a2786f7ec8",
+              "_testId": "urn:uuid:11bdc377-b8df-4bae-a210-513004e1b5b0",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4015,12 +4009,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2783,
+                "_idleStart": 2850,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 95,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -4037,9 +4031,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:e4e65754-1e99-43df-9641-09bc076dd459",
+              "_testId": "urn:uuid:fd485341-a3be-4495-bbc7-fbfd3a8db310",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4050,7 +4044,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8591,
+                "_idleStart": 9908,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4077,9 +4071,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:6dc69657-5726-451b-935f-786e63a781df",
+              "_testId": "urn:uuid:0c673fba-bb37-4e69-ad0b-eac401c72bb9",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4090,12 +4084,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2879,
+                "_idleStart": 2950,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 106,
+              "duration": 99,
               "state": "passed",
               "speed": "slow"
             },
@@ -4112,9 +4106,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:37b862d9-7b30-4be9-b008-a725dcb0aa5b",
+              "_testId": "urn:uuid:29a565ad-c9ff-463b-8263-5ee3bc1d18e7",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4125,12 +4119,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8592,
+                "_idleStart": 9908,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -4152,9 +4146,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:7cb30d15-dca0-4d46-b762-7ffe9077c731",
+              "_testId": "urn:uuid:c972fcd5-c950-48e4-93c4-d04f326349ef",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4165,12 +4159,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2985,
+                "_idleStart": 3050,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 95,
+              "duration": 97,
               "state": "passed",
               "speed": "slow"
             },
@@ -4187,9 +4181,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:9ae19b88-dd64-47b8-8735-0d109bc9df57",
+              "_testId": "urn:uuid:501c344b-0515-4aac-a50e-b73e45ecf5f7",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4200,12 +4194,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8592,
+                "_idleStart": 9908,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             }
@@ -4227,9 +4221,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:902a18a7-6876-4f87-b45e-5d35b25ad235",
+              "_testId": "urn:uuid:775cc58c-f786-4218-a91f-a0e27f94dbdc",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4240,12 +4234,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3080,
+                "_idleStart": 3148,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 602,
+              "duration": 732,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -4266,9 +4260,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:2be29b90-3090-4a5d-84f5-140c3d13a814",
+              "_testId": "urn:uuid:478ce59a-cca5-4466-9358-be9fc8eff122",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4279,7 +4273,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8592,
+                "_idleStart": 9909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4306,9 +4300,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:47f99af8-dd37-4c9d-ac60-690cd1ced141",
+              "_testId": "urn:uuid:72e85518-3560-4f08-acb0-afc1a79f0a52",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4319,12 +4313,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3685,
+                "_idleStart": 3883,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 303,
+              "duration": 286,
               "state": "passed",
               "speed": "slow"
             },
@@ -4341,9 +4335,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:3a0c8975-a7d5-45d4-a25f-6b6709c6790e",
+              "_testId": "urn:uuid:42de2ed9-d41c-41f0-956d-c4640f04a6f2",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4354,7 +4348,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8593,
+                "_idleStart": 9909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4381,9 +4375,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:c23097e0-df56-49d0-b4bb-9724e903927c",
+              "_testId": "urn:uuid:3071df6a-b37d-487a-8841-adf77f2e513e",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4394,12 +4388,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3989,
+                "_idleStart": 4170,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 529,
+              "duration": 818,
               "state": "failed",
               "err": {
                 "response": {},
@@ -4407,35 +4401,30 @@
                 "options": {
                   "credentials": "same-origin",
                   "headers": {},
-                  "body": "{\"verifiablePresentation\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\",{\"CredentialManagerPresentation\":\"https://example.org/examples#CredentialManagerPresentation\"}],\"type\":[\"VerifiablePresentation\",\"CredentialManagerPresentation\"],\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-11T05:11:16Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"authentication\",\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\",\"proofValue\":\"z4Bpc6PhwJMuPkmup2da2jCP4fjhgNJNGFTLniX65v1w1qfdLqAQ8Msn8i9AS8cEU5CiRJGXj7n1XyyCCFB9hW87b\"}},\"options\":{\"checks\":[\"proof\"],\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\"}}",
+                  "body": "{\"credential\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\",{\"CredentialStatusList2017\":\"https://example.org/examples#CredentialStatusList2017\"}],\"type\":[\"VerifiableCredential\"],\"issuer\":\"did:example:issuer\",\"credentialSubject\":{\"id\":\"did:example:subject\"},\"credentialStatus\":{\"id\":\"did:example:status\",\"type\":\"CredentialStatusList2017\"}},\"options\":{\"type\":\"Ed25519Signature2020\"}}",
                   "method": "POST",
                   "json": {
-                    "verifiablePresentation": {
+                    "credential": {
                       "@context": [
                         "https://www.w3.org/ns/credentials/v2",
                         {
-                          "CredentialManagerPresentation": "https://example.org/examples#CredentialManagerPresentation"
+                          "CredentialStatusList2017": "https://example.org/examples#CredentialStatusList2017"
                         }
                       ],
                       "type": [
-                        "VerifiablePresentation",
-                        "CredentialManagerPresentation"
+                        "VerifiableCredential"
                       ],
-                      "proof": {
-                        "type": "DataIntegrityProof",
-                        "created": "2024-02-11T05:11:16Z",
-                        "verificationMethod": "did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj",
-                        "cryptosuite": "eddsa-2022",
-                        "proofPurpose": "authentication",
-                        "challenge": "uFrO4Y_rCiUHGNPdufGFLOg",
-                        "proofValue": "z4Bpc6PhwJMuPkmup2da2jCP4fjhgNJNGFTLniX65v1w1qfdLqAQ8Msn8i9AS8cEU5CiRJGXj7n1XyyCCFB9hW87b"
+                      "issuer": "did:example:issuer",
+                      "credentialSubject": {
+                        "id": "did:example:subject"
+                      },
+                      "credentialStatus": {
+                        "id": "did:example:status",
+                        "type": "CredentialStatusList2017"
                       }
                     },
                     "options": {
-                      "checks": [
-                        "proof"
-                      ],
-                      "challenge": "uFrO4Y_rCiUHGNPdufGFLOg"
+                      "type": "Ed25519Signature2020"
                     }
                   },
                   "agent": {
@@ -4504,15 +4493,12 @@
                   "duplex": "half"
                 },
                 "name": "HTTPError",
-                "requestUrl": "https://vc.apicatalog.com/presentations/verify",
+                "requestUrl": "https://vc.apicatalog.com/credentials/issue",
                 "status": 400,
                 "data": {
-                  "checks": [
-                    "PROOF",
-                    "INVALID_SIGNATURE"
-                  ],
-                  "warnings": [],
-                  "errors": []
+                  "id": "MALFORMED",
+                  "code": "INVALID_CREDENTIAL_STATUS",
+                  "message": null
                 }
               }
             },
@@ -4529,9 +4515,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:7148a7bc-ecef-4a8c-a347-22b6fd417304",
+              "_testId": "urn:uuid:6e67fc8a-f3fd-4c29-96d8-dc60ae8b2990",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4542,7 +4528,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8593,
+                "_idleStart": 9909,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4569,9 +4555,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:b26fc497-c7c2-4127-ba3a-1fb88a2e9323",
+              "_testId": "urn:uuid:04cc57a5-bdd8-4d78-bfd5-859d32f97324",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4582,12 +4568,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4521,
+                "_idleStart": 4991,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 70,
+              "duration": 42,
               "state": "passed",
               "speed": "medium"
             },
@@ -4604,9 +4590,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:3617cc5b-bc34-492d-8f6e-2c45ab456d83",
+              "_testId": "urn:uuid:e869a14f-a0c8-4db7-a289-bc2eda31bff3",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4617,12 +4603,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8593,
+                "_idleStart": 9910,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -4644,9 +4630,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:bd20a25f-6c80-429a-ab62-a387ec880c22",
+              "_testId": "urn:uuid:c01db659-5e20-471d-862b-9076125c2203",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4657,12 +4643,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4592,
+                "_idleStart": 5033,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 86,
+              "duration": 77,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -4683,9 +4669,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:f433e335-bef1-4916-b336-3fc72acce9e0",
+              "_testId": "urn:uuid:f9b41bb8-af1e-4b6d-85df-b76c395bcfe0",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4696,12 +4682,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8594,
+                "_idleStart": 9910,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {}
             }
@@ -4723,9 +4709,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:39f3e9e6-8f6b-4c48-af71-2045d8f9de57",
+              "_testId": "urn:uuid:eff634e7-b293-48d9-b067-e4c266f01b9d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4736,12 +4722,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4678,
+                "_idleStart": 5111,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 105,
+              "duration": 136,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -4762,9 +4748,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:070bde76-1e8e-4cd5-add9-945d06c63f40",
+              "_testId": "urn:uuid:ccffd8e2-4139-49f7-9e87-efed8249fc3c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4775,7 +4761,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8602,
+                "_idleStart": 9911,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4802,9 +4788,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:2e68809c-c416-4bd7-a91b-acd59a80059b",
+              "_testId": "urn:uuid:200aff74-efc5-4c36-9fd2-fd627df8a9db",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4815,12 +4801,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4784,
+                "_idleStart": 5248,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 365,
+              "duration": 403,
               "state": "passed",
               "speed": "slow"
             },
@@ -4837,9 +4823,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:e02baf52-1dce-4390-ac32-04e594d0b428",
+              "_testId": "urn:uuid:2a20d4ab-2b09-4dce-9bfe-7e63a4460d9c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4850,12 +4836,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8604,
+                "_idleStart": 9911,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {}
             }
@@ -4877,9 +4863,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:0d6b4135-6220-49b0-bb26-383e9936bdca",
+              "_testId": "urn:uuid:4af85e3e-1771-4d2f-b51b-3efc2d1a675b",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4890,12 +4876,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5149,
+                "_idleStart": 5651,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 632,
+              "duration": 1040,
               "state": "passed",
               "speed": "slow"
             },
@@ -4912,9 +4898,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:269263b5-51f6-41c6-875f-571c64654b98",
+              "_testId": "urn:uuid:bd1cd150-df01-4dfd-90a6-ad1ffeda0442",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4925,7 +4911,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8605,
+                "_idleStart": 9912,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4952,9 +4938,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:e08660ef-e850-4212-8a8a-0833a34680f6",
+              "_testId": "urn:uuid:50d6ebe3-f539-4ef0-8274-1eddf3894ce6",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -4965,12 +4951,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5781,
+                "_idleStart": 6691,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 696,
+              "duration": 861,
               "state": "passed",
               "speed": "slow"
             },
@@ -4987,9 +4973,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:32c30307-def5-4380-b167-793bcb0a6462",
+              "_testId": "urn:uuid:2bd6e6af-b895-447f-94c2-17546f6c5202",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5000,7 +4986,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8606,
+                "_idleStart": 9912,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5027,9 +5013,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:14b02d07-797f-4172-b717-51ec1a70d5e9",
+              "_testId": "urn:uuid:cbff2140-c68c-426a-a9e9-1d7a653cb126",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5040,12 +5026,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6477,
+                "_idleStart": 7555,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 305,
+              "duration": 234,
               "state": "passed",
               "speed": "slow"
             },
@@ -5062,9 +5048,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:65d9fcd2-2b9c-466a-adc6-67d0effb2b6c",
+              "_testId": "urn:uuid:27efa263-2495-42a2-bacd-7c8ef0096590",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5075,12 +5061,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8607,
+                "_idleStart": 9913,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {}
             }
@@ -5102,9 +5088,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:a5579adf-385f-466c-835b-3b8394528db7",
+              "_testId": "urn:uuid:6753be09-2260-4625-a26f-6ca982d194d3",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5115,12 +5101,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6782,
+                "_idleStart": 7789,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 97,
+              "duration": 59,
               "state": "failed",
               "err": {
                 "response": {},
@@ -5236,9 +5222,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:dde09ff1-4d33-4803-b5b4-f04fcacc8b87",
+              "_testId": "urn:uuid:48d1d33c-70e4-4431-815b-a7a31d6fb1ad",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5249,7 +5235,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8608,
+                "_idleStart": 9913,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5276,9 +5262,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:ab99927f-03bc-4f5e-8672-429c226f6db4",
+              "_testId": "urn:uuid:4e19dbcd-bd32-4f26-a6dd-262ebf2d9c91",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5289,12 +5275,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6880,
+                "_idleStart": 7849,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 303,
+              "duration": 154,
               "state": "passed",
               "speed": "slow"
             },
@@ -5311,9 +5297,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:eff0868e-aa1d-437c-941e-297778c58b0f",
+              "_testId": "urn:uuid:cd5cc4f0-61f2-4ddd-9d58-c2c0a69c4984",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5324,7 +5310,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8610,
+                "_idleStart": 9914,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5351,9 +5337,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:92b139f6-2864-4e69-98da-b9c521eb264d",
+              "_testId": "urn:uuid:11604365-298e-4ef5-ab69-79343f3c15fe",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5364,12 +5350,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7183,
+                "_idleStart": 8003,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 197,
+              "duration": 247,
               "state": "passed",
               "speed": "slow"
             },
@@ -5386,9 +5372,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:ab513005-8d5e-4f49-8c8b-c9d0adeee31f",
+              "_testId": "urn:uuid:44361f64-5989-4b52-945d-2ed8d747ccc1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5399,7 +5385,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8611,
+                "_idleStart": 9914,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5426,9 +5412,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:a829203a-7701-422b-aca4-aa330fb23cee",
+              "_testId": "urn:uuid:32de4b16-d37f-401e-8cff-77a1bfdc5dec",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5439,12 +5425,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7380,
+                "_idleStart": 8252,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 74,
+              "duration": 42,
               "state": "passed",
               "speed": "medium"
             },
@@ -5461,9 +5447,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:28bfe7bf-b902-492b-bfca-16f42a66e318",
+              "_testId": "urn:uuid:7f5b6659-b2ea-4240-8672-5e12d1ef3a66",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5474,12 +5460,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8612,
+                "_idleStart": 9915,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -5501,9 +5487,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:cf6c0513-9936-463f-a0d3-481b0fd4dc7d",
+              "_testId": "urn:uuid:0a9e5964-be5a-4881-a43e-759f5538e3a1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5514,12 +5500,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7455,
+                "_idleStart": 8294,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 75,
+              "duration": 39,
               "state": "passed",
               "speed": "medium"
             },
@@ -5536,9 +5522,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:a51256a4-2bf9-4bf6-b6e1-5b47ac826337",
+              "_testId": "urn:uuid:37e26fa9-224d-4132-8fff-3c166086510c",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5549,12 +5535,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8618,
+                "_idleStart": 9915,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 2,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -5576,9 +5562,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:8d2f5719-9c14-45db-bb06-25c1aaa08a2f",
+              "_testId": "urn:uuid:9800462d-dd3c-47dd-90ba-81076c0c41b1",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5589,12 +5575,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7530,
+                "_idleStart": 8334,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 85,
+              "duration": 115,
               "state": "failed",
               "err": {
                 "response": {},
@@ -5602,7 +5588,7 @@
                 "options": {
                   "credentials": "same-origin",
                   "headers": {},
-                  "body": "{\"verifiablePresentation\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiablePresentation\"],\"verifiableCredential\":[{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiableCredential\"],\"issuer\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"credentialSubject\":{\"id\":\"did:example:subject\"},\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-11T05:11:19Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"assertionMethod\",\"proofValue\":\"z4yy4pWrX5dJ81arLwGjnujBVsYbyaeDeRtkNsnupQbyoGwcc2d2vLXQrn4kV7ZDAWN48CXsZgf5FLxh94UGrcRxD\"}}],\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-11T05:11:19Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"authentication\",\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\",\"proofValue\":\"z4PVKd4z43kBpzMvRiGZQZ8pGUtNYZJgYqSDfRQmN3A91qStZAcqTLoisGGoT5fSDujjx913FNEfcAK2ni25j4Bri\"}},\"options\":{\"checks\":[\"proof\"],\"challenge\":\"uFrO4Y_rCiUHGNPdufGFLOg\"}}",
+                  "body": "{\"verifiablePresentation\":{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiablePresentation\"],\"verifiableCredential\":[{\"@context\":[\"https://www.w3.org/ns/credentials/v2\"],\"type\":[\"VerifiableCredential\"],\"issuer\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"credentialSubject\":{\"id\":\"did:example:subject\"},\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-18T05:11:39Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"assertionMethod\",\"proofValue\":\"z5Urv87k5KRY3Y8DooMGdcub2kdNBrQcTptD8AHA5CEvdR2AZXWqYBirmCGFJY8APJ7rtMEZ4shJ2jg1CaGRKt148\"}}],\"proof\":{\"type\":\"DataIntegrityProof\",\"created\":\"2024-02-18T05:11:39Z\",\"verificationMethod\":\"did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj\",\"cryptosuite\":\"eddsa-2022\",\"proofPurpose\":\"authentication\",\"challenge\":\"uXdySz_mEbfSCst_VM7N9IQ\",\"proofValue\":\"z4JBhyS8rLkXJeqHBTpr4wFinci6AdbAjKW5TjvNo7r7g54UkQNNE5uYPhPC2cAC6CofnQ53kQz3sZQJYsNbfHJUb\"}},\"options\":{\"checks\":[\"proof\"],\"challenge\":\"uXdySz_mEbfSCst_VM7N9IQ\"}}",
                   "method": "POST",
                   "json": {
                     "verifiablePresentation": {
@@ -5626,29 +5612,29 @@
                           },
                           "proof": {
                             "type": "DataIntegrityProof",
-                            "created": "2024-02-11T05:11:19Z",
+                            "created": "2024-02-18T05:11:39Z",
                             "verificationMethod": "did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj",
                             "cryptosuite": "eddsa-2022",
                             "proofPurpose": "assertionMethod",
-                            "proofValue": "z4yy4pWrX5dJ81arLwGjnujBVsYbyaeDeRtkNsnupQbyoGwcc2d2vLXQrn4kV7ZDAWN48CXsZgf5FLxh94UGrcRxD"
+                            "proofValue": "z5Urv87k5KRY3Y8DooMGdcub2kdNBrQcTptD8AHA5CEvdR2AZXWqYBirmCGFJY8APJ7rtMEZ4shJ2jg1CaGRKt148"
                           }
                         }
                       ],
                       "proof": {
                         "type": "DataIntegrityProof",
-                        "created": "2024-02-11T05:11:19Z",
+                        "created": "2024-02-18T05:11:39Z",
                         "verificationMethod": "did:key:z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj#z6MkpJySvETLnxhQG9DzEdmKJtysBDjuuTeDfUj1uNNCUqcj",
                         "cryptosuite": "eddsa-2022",
                         "proofPurpose": "authentication",
-                        "challenge": "uFrO4Y_rCiUHGNPdufGFLOg",
-                        "proofValue": "z4PVKd4z43kBpzMvRiGZQZ8pGUtNYZJgYqSDfRQmN3A91qStZAcqTLoisGGoT5fSDujjx913FNEfcAK2ni25j4Bri"
+                        "challenge": "uXdySz_mEbfSCst_VM7N9IQ",
+                        "proofValue": "z4JBhyS8rLkXJeqHBTpr4wFinci6AdbAjKW5TjvNo7r7g54UkQNNE5uYPhPC2cAC6CofnQ53kQz3sZQJYsNbfHJUb"
                       }
                     },
                     "options": {
                       "checks": [
                         "proof"
                       ],
-                      "challenge": "uFrO4Y_rCiUHGNPdufGFLOg"
+                      "challenge": "uXdySz_mEbfSCst_VM7N9IQ"
                     }
                   },
                   "agent": {
@@ -5721,11 +5707,13 @@
                 "status": 400,
                 "data": {
                   "checks": [
-                    "PROOF",
-                    "INVALID_SIGNATURE"
+                    "PROOF"
                   ],
                   "warnings": [],
-                  "errors": []
+                  "errors": [
+                    "MALFORMED",
+                    "INVALID_CHALLENGE"
+                  ]
                 }
               }
             },
@@ -5742,9 +5730,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:492e5cc5-dd5c-4154-972f-e1c4762f8a9f",
+              "_testId": "urn:uuid:5daf8aeb-2976-4b0b-aa66-bf09f319d3e2",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5755,12 +5743,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8618,
+                "_idleStart": 9915,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 5,
+              "duration": 8,
               "state": "failed",
               "err": {}
             }
@@ -5782,9 +5770,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:8393bd15-7cf9-44c2-93de-a6e0eede7f2e",
+              "_testId": "urn:uuid:2ef51757-af92-47bc-951e-836e1d1ca494",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5795,12 +5783,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7615,
+                "_idleStart": 8449,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 151,
+              "duration": 105,
               "state": "passed",
               "speed": "slow"
             },
@@ -5817,9 +5805,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:fbe1f9da-a685-44eb-8d5f-288f70c1a0cf",
+              "_testId": "urn:uuid:5f804c89-e66f-41ef-a7ca-adac8a746c19",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5830,12 +5818,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8624,
+                "_idleStart": 9923,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             }
@@ -5857,9 +5845,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:fe7acd6c-4616-445a-bcd9-ee90e5260f98",
+              "_testId": "urn:uuid:0453c23f-ec37-4d0c-b865-e549a05d4e3f",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5870,12 +5858,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7766,
+                "_idleStart": 8555,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 156,
+              "duration": 193,
               "state": "passed",
               "speed": "slow"
             },
@@ -5892,9 +5880,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:b286e8b0-86ef-42f6-a5cc-baf70cd1fa21",
+              "_testId": "urn:uuid:d65d7705-be4c-49f7-8cf0-b71a19748a1d",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5905,7 +5893,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8624,
+                "_idleStart": 9924,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5932,9 +5920,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:45955f22-dc50-4df3-8c53-ab3e90441432",
+              "_testId": "urn:uuid:2771676e-1c12-4684-b6a7-23430ceec016",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5945,12 +5933,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7922,
+                "_idleStart": 8747,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 158,
+              "duration": 300,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -5971,9 +5959,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:03fb99d1-c1ea-4a49-a427-069a31869154",
+              "_testId": "urn:uuid:d069b232-8ad7-408a-aebc-b4eda1d093fc",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -5984,12 +5972,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8624,
+                "_idleStart": 9924,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -6011,9 +5999,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:3b173ebb-c182-4835-a2bf-afcd5251da94",
+              "_testId": "urn:uuid:910c11d7-51e3-4615-b8b4-6c0b6936eadf",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6024,12 +6012,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8080,
+                "_idleStart": 9048,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 197,
+              "duration": 203,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -6050,9 +6038,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:6c275d29-d336-45a8-8cf4-16fe0834668c",
+              "_testId": "urn:uuid:1d5941a7-159e-4988-81ca-d4cbd233da2a",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6063,12 +6051,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8625,
+                "_idleStart": 9924,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             }
@@ -6090,9 +6078,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:58ba95cf-31f1-4b00-ad00-a94169ade84a",
+              "_testId": "urn:uuid:c8825d07-24ec-4cf1-bdd6-fc82dc16a6d7",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6103,12 +6091,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8278,
+                "_idleStart": 9252,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 79,
+              "duration": 294,
               "state": "passed",
               "speed": "slow"
             },
@@ -6125,9 +6113,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:c6c3bfd7-bd18-4dcc-a974-0b75c803282b",
+              "_testId": "urn:uuid:6a5a25e3-5f46-4ecb-a838-b41a55809273",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6138,7 +6126,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8625,
+                "_idleStart": 9925,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6165,9 +6153,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:ceb03f87-308b-4414-87b9-08d47a4003d5",
+              "_testId": "urn:uuid:7aee4803-3d1f-42c9-b012-f3f91da48cd8",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6178,12 +6166,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8357,
+                "_idleStart": 9547,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 121,
+              "duration": 210,
               "state": "failed",
               "err": {
                 "generatedMessage": false,
@@ -6204,9 +6192,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:1b237f55-0c87-4544-9823-29327a4f16eb",
+              "_testId": "urn:uuid:a4955b83-1a81-4dff-9b4d-debc5a64c48e",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6217,7 +6205,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8626,
+                "_idleStart": 9925,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6244,9 +6232,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "KaZtI8o9xPr7urlEqrNT3",
+              "parent": "OOVV2_oUdw_CGSuA81Ydy",
               "ctx": null,
-              "_testId": "urn:uuid:3970a8d7-10c3-4ad0-beee-19357b4307ba",
+              "_testId": "urn:uuid:e7d4273a-eadf-4697-9700-5b4b12a43548",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6257,12 +6245,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8479,
+                "_idleStart": 9758,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 108,
+              "duration": 144,
               "state": "passed",
               "speed": "slow"
             },
@@ -6279,9 +6267,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/test-on-vectors/test-on-vectors/tests/10-vcdm2.js",
-              "parent": "TfjNZ4Wl5P712518DtqnN",
+              "parent": "JFGPl2ZvDiqpeKAzHsT3t",
               "ctx": null,
-              "_testId": "urn:uuid:56ef75ff-cb66-43d3-bea2-7213b22f7301",
+              "_testId": "urn:uuid:fb65d7ee-61e6-4c48-b54b-13cb045479a9",
               "_events": {},
               "_eventsCount": 1,
               "cell": {
@@ -6292,7 +6280,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8626,
+                "_idleStart": 9926,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
